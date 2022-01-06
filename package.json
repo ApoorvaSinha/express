@@ -1,0 +1,11 @@
+{
+  "name": "test-project",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node main.js",
+    "test": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
